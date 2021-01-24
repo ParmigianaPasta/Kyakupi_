@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Kyakupi
+
+  Created by 一条和洋 on 2021/01/24.
+  
+*/
+"HOME" = "Home";
+"CUSTOMERS" = "Customers";
+"SCHEDULES" = "Schedules";
+"SETTINGS" = "Settings";
